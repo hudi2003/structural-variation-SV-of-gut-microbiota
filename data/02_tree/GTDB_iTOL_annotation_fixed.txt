@@ -1,0 +1,420 @@
+DATASET_TEXT
+SEPARATOR TAB
+DATASET_LABEL	Species labels
+COLOR	#000000
+FIELD_LABELS	Label
+FIELD_COLORS	#000000
+LEGEND_TITLE	Genera
+LEGEND_SHAPES	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+LEGEND_LABELS	Megamonas	Cryptobacteroides	Unknown	Thomasclavelia	Faecalibacterium	Avibacteroides	Desulfovibrio	CASDZP01	Brachyspira	URXU01	Mucispirillum	Aphodocola	Treponema_G	Alistipes	Phocaeicola	Tidjanibacter	Bacteroides	CALUPD01	Barnesiella	Streptococcus	Fimenecus	UMGS2016	RGIG2774	Fusobacterium_A	Helicobacter_F	Agathobaculum	Enterousia	Paraprevotella	CAG-217	Anaerobiospirillum	Massiliimalia	Parabacteroides	CAG-267	CAAGNP01	Limisoma	Avelusimicrobium	CAG-266	Limadaptatus	Ornithoclostridium	Eubacterium_R	Metalachnospira	Faecousia	Limivicinus	Acutalibacter	Alitiscatomonas	Alistipes_A	Enterenecus	Butyricicoccus	Anaerotignum	Lawsonibacter	CALXNP01	CALUMT01	Rikenella	UBA1081	Limousia	MGBC107952	UBA2882	Faecimonas	Mediterraneibacter	Akkermansia	Negativibacillus	MGBC162888	CAG-269	Gemmiger	Enorma	MGBC101980	Caccosoma	Galligastranaerophilus_A	Scatomorpha	Merdimonas	Ligilactobacillus	Fournierella	Helicobacter_G
+LEGEND_COLORS	#8DD3C7	#9ED9C3	#AFE0C0	#C1E7BD	#D2EDBA	#E4F4B7	#F5FBB4	#FAFAB5	#F0EFBB	#E6E5C1	#DCDAC7	#D2D0CD	#C8C5D3	#BEBAD9	#C6B1CB	#CFA9BB	#D9A0AB	#E2979B	#EB8E8B	#F5857C	#F48277	#E18A86	#CE9195	#BB99A3	#A9A0B2	#96A8C1	#83AFD0	#8FB1C4	#A2B1B3	#B5B2A2	#C8B291	#DCB37F	#EFB36E	#F9B562	#EEBC63	#E3C264	#D8C965	#CCCF66	#C1D567	#B6DC68	#BBDC76	#C6D989	#D1D69C	#DCD4AF	#E7D1C2	#F2CFD5	#FBCDE4	#F5CFE2	#F0D1E1	#EAD2DF	#E5D4DD	#E0D6DB	#DAD8D9	#D6D0D6	#D1C2D2	#CDB5CD	#C8A7C9	#C499C5	#C08CC0	#BC81BD	#BE91BE	#C1A2BF	#C3B2C0	#C6C2C2	#C8D3C3	#CAE3C4	#D0EBBD	#D8EBB0	#DFEBA3	#E7EC96	#EFEC89	#F7EC7C	#FFED6F
+
+DATA
+Unknown_BY606-001R0001_bin.1	Megamona_ funiformi_	#8DD3C7
+Unknown_BY606-001R0001_bin.11	Unknown_BY606-001R0001_bin.11	#9ED9C3
+Unknown_BY606-001R0001_bin.15	Unknown_BY606-001R0001_bin.15	#AFE0C0
+Unknown_BY606-001R0001_bin.17	Unknown_BY606-001R0001_bin.17	#C1E7BD
+Unknown_BY606-001R0001_bin.21	Faecalibacterium _p002160895	#D2EDBA
+Unknown_BY606-001R0001_bin.28	Unknown_BY606-001R0001_bin.28	#E4F4B7
+Unknown_BY606-001R0001_bin.3	De_ulfovibrio galli_tercori_	#F5FBB4
+Unknown_BY606-001R0001_bin.35	Unknown_BY606-001R0001_bin.35	#AFE0C0
+Unknown_BY606-001R0001_bin.38	CASDZP01 _p949285535	#FAFAB5
+Unknown_BY606-001R0001_bin.41	Brachy_pira pilo_icoli	#F0EFBB
+Unknown_BY606-001R0001_bin.49	URXU01 _p900541915	#E6E5C1
+Unknown_BY606-001R0001_bin.54	Unknown_BY606-001R0001_bin.54	#DCDAC7
+Unknown_BY606-001R0001_bin.58	Aphodocola _p944329425	#D2D0CD
+Unknown_BY606-001R0001_bin.60	Treponema_G _p944389415	#C8C5D3
+Unknown_BY606-001R0001_bin.67	Unknown_BY606-001R0001_bin.67	#AFE0C0
+Unknown_BY606-001R0001_bin.68	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0003_bin.11	Phocaeicola plebeiu__A	#C6B1CB
+Unknown_BY606-001R0003_bin.13	Unknown_BY606-001R0003_bin.13	#CFA9BB
+Unknown_BY606-001R0003_bin.23	Unknown_BY606-001R0003_bin.23	#E4F4B7
+Unknown_BY606-001R0003_bin.24	Unknown_BY606-001R0003_bin.24	#9ED9C3
+Unknown_BY606-001R0003_bin.25	Bacteroide_ ndongoniae	#D9A0AB
+Unknown_BY606-001R0003_bin.30	Unknown_BY606-001R0003_bin.30	#E2979B
+Unknown_BY606-001R0003_bin.31	Barne_iella inte_tinihomini_	#EB8E8B
+Unknown_BY606-001R0003_bin.32	Streptococcu_ faecavium	#F5857C
+Unknown_BY606-001R0003_bin.48	Faecalibacterium _p002160895	#D2EDBA
+Unknown_BY606-001R0003_bin.49	Cryptobacteroide_ faecigallinarum	#9ED9C3
+Unknown_BY606-001R0003_bin.5	Phocaeicola coprophilu_	#C6B1CB
+Unknown_BY606-001R0003_bin.55	Unknown_BY606-001R0003_bin.55	#F5FBB4
+Unknown_BY606-001R0003_bin.56	URXU01 _p900541915	#E6E5C1
+Unknown_BY606-001R0003_bin.58	De_ulfovibrio _p944324525	#F5FBB4
+Unknown_BY606-001R0003_bin.6	Unknown_BY606-001R0003_bin.6	#F48277
+Unknown_BY606-001R0003_bin.60	Ali_tipe_ _p022767745	#BEBAD9
+Unknown_BY606-001R0003_bin.65	UMGS2016 _p945872435	#E18A86
+Unknown_BY606-001R0003_bin.8	RGIG2774 _p944380845	#CE9195
+Unknown_BY606-001R0003_bin.9	Unknown_BY606-001R0003_bin.9	#AFE0C0
+Unknown_BY606-001R0004_bin.1	UMGS2016 _p945872435	#E18A86
+Unknown_BY606-001R0004_bin.12	Unknown_BY606-001R0004_bin.12	#AFE0C0
+Unknown_BY606-001R0004_bin.14	Phocaeicola coprophilu_	#C6B1CB
+Unknown_BY606-001R0004_bin.19	Unknown_BY606-001R0004_bin.19	#C6B1CB
+Unknown_BY606-001R0004_bin.21	Fu_obacterium_A pullicola	#BB99A3
+Unknown_BY606-001R0004_bin.23	Helicobacter_F _p002287135	#A9A0B2
+Unknown_BY606-001R0004_bin.24	Unknown_BY606-001R0004_bin.24	#9ED9C3
+Unknown_BY606-001R0004_bin.25	Megamona_ funiformi_	#8DD3C7
+Unknown_BY606-001R0004_bin.3	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0004_bin.4	Brachy_pira pilo_icoli	#F0EFBB
+Unknown_BY606-001R0004_bin.9	Unknown_BY606-001R0004_bin.9	#AFE0C0
+Unknown_BY606-001R0006_bin.1	Ali_tipe_ _p900550925	#BEBAD9
+Unknown_BY606-001R0006_bin.10	Agathobaculum inte_tinipullorum	#96A8C1
+Unknown_BY606-001R0006_bin.13	Enterou_ia _p944390125	#83AFD0
+Unknown_BY606-001R0006_bin.15	Paraprevotella _p944320775	#8FB1C4
+Unknown_BY606-001R0006_bin.16	CAG-217 _p900547275	#A2B1B3
+Unknown_BY606-001R0006_bin.20	Ali_tipe_ _p022767745	#BEBAD9
+Unknown_BY606-001R0006_bin.26	Phocaeicola plebeiu__A	#C6B1CB
+Unknown_BY606-001R0006_bin.8	De_ulfovibrio _p944324525	#F5FBB4
+Unknown_BY606-001R0008_bin.1	Unknown_BY606-001R0008_bin.1	#B5B2A2
+Unknown_BY606-001R0008_bin.12	Unknown_BY606-001R0008_bin.12	#AFE0C0
+Unknown_BY606-001R0008_bin.14	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0008_bin.2	Phocaeicola coprophilu_	#C6B1CB
+Unknown_BY606-001R0008_bin.4	Unknown_BY606-001R0008_bin.4	#AFE0C0
+Unknown_BY606-001R0008_bin.6	Unknown_BY606-001R0008_bin.6	#F0EFBB
+Unknown_BY606-001R0009_bin.12	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0009_bin.18	Brachy_pira pilo_icoli	#F0EFBB
+Unknown_BY606-001R0009_bin.19	Unknown_BY606-001R0009_bin.19	#F5FBB4
+Unknown_BY606-001R0009_bin.2	Unknown_BY606-001R0009_bin.2	#DCDAC7
+Unknown_BY606-001R0009_bin.22	Unknown_BY606-001R0009_bin.22	#AFE0C0
+Unknown_BY606-001R0010_bin.16	Fimenecu_ _p949292775	#F48277
+Unknown_BY606-001R0010_bin.19	URXU01 _p900541915	#E6E5C1
+Unknown_BY606-001R0010_bin.22	Paraprevotella _p905215575	#8FB1C4
+Unknown_BY606-001R0010_bin.25	Unknown_BY606-001R0010_bin.25	#C8B291
+Unknown_BY606-001R0010_bin.27	Unknown_BY606-001R0010_bin.27	#F5FBB4
+Unknown_BY606-001R0010_bin.28	Phocaeicola coprophilu_	#C6B1CB
+Unknown_BY606-001R0010_bin.30	Parabacteroide_ _p937894065	#DCB37F
+Unknown_BY606-001R0010_bin.35	Unknown_BY606-001R0010_bin.35	#AFE0C0
+Unknown_BY606-001R0010_bin.39	Brachy_pira pilo_icoli	#F0EFBB
+Unknown_BY606-001R0010_bin.4	Fu_obacterium_A pullicola	#BB99A3
+Unknown_BY606-001R0010_bin.52	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0010_bin.54	Unknown_BY606-001R0010_bin.54	#EFB36E
+Unknown_BY606-001R0010_bin.55	Agathobaculum inte_tinipullorum	#96A8C1
+Unknown_BY606-001R0010_bin.57	Unknown_BY606-001R0010_bin.57	#B5B2A2
+Unknown_BY606-001R0010_bin.59	Unknown_BY606-001R0010_bin.59	#F5FBB4
+Unknown_BY606-001R0010_bin.9	Unknown_BY606-001R0010_bin.9	#F9B562
+Unknown_BY606-001R0011_bin.15	Phocaeicola coprophilu_	#C6B1CB
+Unknown_BY606-001R0011_bin.16	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0011_bin.28	Parabacteroide_ faecali_	#DCB37F
+Unknown_BY606-001R0011_bin.37	Phocaeicola faecicola	#C6B1CB
+Unknown_BY606-001R0011_bin.9	Limi_oma _p900544305	#EEBC63
+Unknown_BY606-001R0012_bin.11	Avelu_imicrobium _p944324635	#E3C264
+Unknown_BY606-001R0012_bin.18	CAG-266 _p019117495	#D8C965
+Unknown_BY606-001R0012_bin.20	Phocaeicola plebeiu__A	#C6B1CB
+Unknown_BY606-001R0012_bin.21	Phocaeicola coprophilu_	#C6B1CB
+Unknown_BY606-001R0012_bin.22	Faecalibacterium _p002160895	#D2EDBA
+Unknown_BY606-001R0012_bin.24	Unknown_BY606-001R0012_bin.24	#CCCF66
+Unknown_BY606-001R0012_bin.25	Unknown_BY606-001R0012_bin.25	#AFE0C0
+Unknown_BY606-001R0012_bin.26	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0012_bin.3	UMGS2016 _p945872435	#E18A86
+Unknown_BY606-001R0012_bin.30	Unknown_BY606-001R0012_bin.30	#C1D567
+Unknown_BY606-001R0012_bin.40	Unknown_BY606-001R0012_bin.40	#E2979B
+Unknown_BY606-001R0012_bin.42	Unknown_BY606-001R0012_bin.42	#F5FBB4
+Unknown_BY606-001R0012_bin.44	Enterou_ia _p944390125	#83AFD0
+Unknown_BY606-001R0012_bin.46	Parabacteroide_ faecali_	#DCB37F
+Unknown_BY606-001R0012_bin.51	Limi_oma _p900544305	#EEBC63
+Unknown_BY606-001R0012_bin.52	Brachy_pira pilo_icoli	#F0EFBB
+Unknown_BY606-001R0012_bin.6	De_ulfovibrio _p944324525	#F5FBB4
+Unknown_BY606-001R0012_bin.7	Ali_tipe_ _p022767745	#BEBAD9
+Unknown_BY606-001R0012_bin.9	Paraprevotella _p944320775	#8FB1C4
+Unknown_BY606-001R0014_bin.11	Paraprevotella _p944320775	#8FB1C4
+Unknown_BY606-001R0014_bin.14	Unknown_BY606-001R0014_bin.14	#AFE0C0
+Unknown_BY606-001R0014_bin.22	CAG-266 _p019117495	#D8C965
+Unknown_BY606-001R0014_bin.26	Streptococcu_ faecavium	#F5857C
+Unknown_BY606-001R0014_bin.27	Eubacterium_R _p944385025	#B6DC68
+Unknown_BY606-001R0014_bin.29	Unknown_BY606-001R0014_bin.29	#9ED9C3
+Unknown_BY606-001R0014_bin.3	Metalachno_pira _p902406135	#BBDC76
+Unknown_BY606-001R0014_bin.32	URXU01 _p900541915	#E6E5C1
+Unknown_BY606-001R0014_bin.44	Avibacteroide_ _p944320965	#E4F4B7
+Unknown_BY606-001R0014_bin.45	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0014_bin.46	Fu_obacterium_A pullicola	#BB99A3
+Unknown_BY606-001R0014_bin.47	Brachy_pira pilo_icoli	#F0EFBB
+Unknown_BY606-001R0014_bin.50	Faecalibacterium _p002160895	#D2EDBA
+Unknown_BY606-001R0014_bin.51	Enterou_ia _p944390125	#83AFD0
+Unknown_BY606-001R0015_bin.11	Unknown_BY606-001R0015_bin.11	#F5FBB4
+Unknown_BY606-001R0015_bin.12	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0015_bin.2	Faecou_ia faecipullorum	#C6D989
+Unknown_BY606-001R0015_bin.21	Phocaeicola coprophilu_	#C6B1CB
+Unknown_BY606-001R0015_bin.33	URXU01 _p900541915	#E6E5C1
+Unknown_BY606-001R0015_bin.34	Unknown_BY606-001R0015_bin.34	#9ED9C3
+Unknown_BY606-001R0015_bin.38	UMGS2016 _p945872435	#E18A86
+Unknown_BY606-001R0015_bin.43	Unknown_BY606-001R0015_bin.43	#D1D69C
+Unknown_BY606-001R0015_bin.44	Megamona_ funiformi_	#8DD3C7
+Unknown_BY606-001R0015_bin.50	Faecalibacterium _p002160895	#D2EDBA
+Unknown_BY606-001R0015_bin.53	Brachy_pira pilo_icoli	#F0EFBB
+Unknown_BY606-001R0015_bin.54	Eubacterium_R _p944385025	#B6DC68
+Unknown_BY606-001R0015_bin.55	Unknown_BY606-001R0015_bin.55	#F9B562
+Unknown_BY606-001R0015_bin.9	Unknown_BY606-001R0015_bin.9	#F5FBB4
+Unknown_BY606-001R0016_bin.12	Faecalibacterium _p002160895	#D2EDBA
+Unknown_BY606-001R0016_bin.15	Limi_oma _p900544305	#EEBC63
+Unknown_BY606-001R0016_bin.16	Unknown_BY606-001R0016_bin.16	#DCD4AF
+Unknown_BY606-001R0016_bin.22	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0016_bin.23	Aliti_catomona_ _p902477765	#E7D1C2
+Unknown_BY606-001R0016_bin.28	Ali_tipe__A ihumii	#F2CFD5
+Unknown_BY606-001R0016_bin.29	De_ulfovibrio _p905215675	#F5FBB4
+Unknown_BY606-001R0016_bin.35	Streptococcu_ faecavium	#F5857C
+Unknown_BY606-001R0016_bin.4	Unknown_BY606-001R0016_bin.4	#DCDAC7
+Unknown_BY606-001R0016_bin.45	Parabacteroide_ faecali_	#DCB37F
+Unknown_BY606-001R0016_bin.47	CAG-217 _p900547275	#A2B1B3
+Unknown_BY606-001R0016_bin.51	Parabacteroide_ inte_tinipullorum	#DCB37F
+Unknown_BY606-001R0016_bin.57	Brachy_pira pilo_icoli	#F0EFBB
+Unknown_BY606-001R0016_bin.60	Enterenecu_ faecium	#FBCDE4
+Unknown_BY606-001R0016_bin.69	Unknown_BY606-001R0016_bin.69	#AFE0C0
+Unknown_BY606-001R0016_bin.7	Unknown_BY606-001R0016_bin.7	#F5FBB4
+Unknown_BY606-001R0017_bin.22	Butyricicoccu_ pullicaecorum	#F5CFE2
+Unknown_BY606-001R0017_bin.23	CAG-217 _p900547275	#A2B1B3
+Unknown_BY606-001R0017_bin.28	Limi_oma _p900544305	#EEBC63
+Unknown_BY606-001R0017_bin.29	Treponema_G _p944389415	#C8C5D3
+Unknown_BY606-001R0017_bin.33	Anaerotignum lactatifermentan_	#F0D1E1
+Unknown_BY606-001R0017_bin.36	Unknown_BY606-001R0017_bin.36	#E3C264
+Unknown_BY606-001R0017_bin.4	Phocaeicola coprophilu_	#C6B1CB
+Unknown_BY606-001R0017_bin.41	Unknown_BY606-001R0017_bin.41	#E4F4B7
+Unknown_BY606-001R0017_bin.45	Unknown_BY606-001R0017_bin.45	#9ED9C3
+Unknown_BY606-001R0017_bin.48	Ali_tipe_ _p022767745	#BEBAD9
+Unknown_BY606-001R0017_bin.5	Ornithoclo_tridium _p944380275	#C1D567
+Unknown_BY606-001R0017_bin.52	Enterenecu_ faecium	#FBCDE4
+Unknown_BY606-001R0017_bin.53	Unknown_BY606-001R0017_bin.53	#AFE0C0
+Unknown_BY606-001R0017_bin.57	Law_onibacter _p000177015	#EAD2DF
+Unknown_BY606-001R0017_bin.6	Faecalibacterium _p002160895	#D2EDBA
+Unknown_BY606-001R0018_bin.12	Unknown_BY606-001R0018_bin.12	#B5B2A2
+Unknown_BY606-001R0018_bin.16	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0018_bin.17	CALXNP01 _p944389785	#E5D4DD
+Unknown_BY606-001R0018_bin.2	Limi_oma _p900544305	#EEBC63
+Unknown_BY606-001R0018_bin.23	CALUMT01 _p944321845	#E0D6DB
+Unknown_BY606-001R0018_bin.26	Brachy_pira pilo_icoli	#F0EFBB
+Unknown_BY606-001R0018_bin.3	Unknown_BY606-001R0018_bin.3	#F5FBB4
+Unknown_BY606-001R0018_bin.31	Unknown_BY606-001R0018_bin.31	#F5FBB4
+Unknown_BY606-001R0018_bin.37	Unknown_BY606-001R0018_bin.37	#C1E7BD
+Unknown_BY606-001R0019_bin.10	Rikenella faecigallinarum	#DAD8D9
+Unknown_BY606-001R0019_bin.15	Unknown_BY606-001R0019_bin.15	#D6D0D6
+Unknown_BY606-001R0019_bin.19	Unknown_BY606-001R0019_bin.19	#B5B2A2
+Unknown_BY606-001R0019_bin.2	Enterou_ia _p944390125	#83AFD0
+Unknown_BY606-001R0019_bin.21	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0019_bin.22	Paraprevotella _p944320775	#8FB1C4
+Unknown_BY606-001R0019_bin.23	Unknown_BY606-001R0019_bin.23	#D1C2D2
+Unknown_BY606-001R0019_bin.25	Unknown_BY606-001R0019_bin.25	#F9B562
+Unknown_BY606-001R0019_bin.3	Brachy_pira pilo_icoli	#F0EFBB
+Unknown_BY606-001R0020_bin.17	MGBC107952 _p944332435	#CDB5CD
+Unknown_BY606-001R0020_bin.18	Ali_tipe_ finegoldii	#BEBAD9
+Unknown_BY606-001R0020_bin.22	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0020_bin.25	Parabacteroide_ faecali_	#DCB37F
+Unknown_BY606-001R0020_bin.28	Unknown_BY606-001R0020_bin.28	#C8A7C9
+Unknown_BY606-001R0020_bin.29	Faecou_ia _p944387615	#C6D989
+Unknown_BY606-001R0020_bin.3	Unknown_BY606-001R0020_bin.3	#BEBAD9
+Unknown_BY606-001R0020_bin.31	Eubacterium_R _p944385025	#B6DC68
+Unknown_BY606-001R0020_bin.38	Fimenecu_ excrementavium	#F48277
+Unknown_BY606-001R0020_bin.4	Unknown_BY606-001R0020_bin.4	#AFE0C0
+Unknown_BY606-001R0020_bin.41	Unknown_BY606-001R0020_bin.41	#F5FBB4
+Unknown_BY606-001R0020_bin.5	Streptococcu_ faecavium	#F5857C
+Unknown_BY606-001R0020_bin.51	Ali_tipe_ _p022767745	#BEBAD9
+Unknown_BY606-001R0021_bin.12	Avelu_imicrobium _p944324635	#E3C264
+Unknown_BY606-001R0021_bin.20	Unknown_BY606-001R0021_bin.20	#C499C5
+Unknown_BY606-001R0021_bin.21	Unknown_BY606-001R0021_bin.21	#C08CC0
+Unknown_BY606-001R0021_bin.22	Unknown_BY606-001R0021_bin.22	#F5FBB4
+Unknown_BY606-001R0021_bin.32	Unknown_BY606-001R0021_bin.32	#C1D567
+Unknown_BY606-001R0021_bin.33	Fu_obacterium_A pullicola	#BB99A3
+Unknown_BY606-001R0021_bin.37	Unknown_BY606-001R0021_bin.37	#DCDAC7
+Unknown_BY606-001R0021_bin.38	Paraprevotella _p944320775	#8FB1C4
+Unknown_BY606-001R0021_bin.43	De_ulfovibrio _p905215675	#F5FBB4
+Unknown_BY606-001R0021_bin.7	Unknown_BY606-001R0021_bin.7	#AFE0C0
+Unknown_BY606-001R0021_bin.8	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0022_bin.12	UMGS2016 _p945872435	#E18A86
+Unknown_BY606-001R0022_bin.16	Unknown_BY606-001R0022_bin.16	#D6D0D6
+Unknown_BY606-001R0022_bin.18	Parabacteroide_ inte_tinipullorum	#DCB37F
+Unknown_BY606-001R0022_bin.20	Unknown_BY606-001R0022_bin.20	#F5FBB4
+Unknown_BY606-001R0022_bin.21	Eubacterium_R _p944385025	#B6DC68
+Unknown_BY606-001R0022_bin.29	Limi_oma _p900544305	#EEBC63
+Unknown_BY606-001R0022_bin.3	Unknown_BY606-001R0022_bin.3	#F9B562
+Unknown_BY606-001R0022_bin.36	Parabacteroide_ faecali_	#DCB37F
+Unknown_BY606-001R0022_bin.40	Unknown_BY606-001R0022_bin.40	#F0EFBB
+Unknown_BY606-001R0022_bin.43	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0022_bin.44	Phocaeicola faecicola	#C6B1CB
+Unknown_BY606-001R0022_bin.45	Unknown_BY606-001R0022_bin.45	#9ED9C3
+Unknown_BY606-001R0022_bin.46	Streptococcu_ faecavium	#F5857C
+Unknown_BY606-001R0023_bin.1	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0023_bin.10	Akkerman_ia muciniphila	#BC81BD
+Unknown_BY606-001R0023_bin.12	Brachy_pira pilo_icoli	#F0EFBB
+Unknown_BY606-001R0023_bin.5	Enterou_ia _p944390125	#83AFD0
+Unknown_BY606-001R0023_bin.6	De_ulfovibrio _p905215675	#F5FBB4
+Unknown_BY606-001R0024_bin.14	Unknown_BY606-001R0024_bin.14	#BEBAD9
+Unknown_BY606-001R0024_bin.20	CASDZP01 _p949285535	#FAFAB5
+Unknown_BY606-001R0024_bin.30	Ornithoclo_tridium _p944383905	#C1D567
+Unknown_BY606-001R0024_bin.31	Ali_tipe_ _p022767745	#BEBAD9
+Unknown_BY606-001R0024_bin.33	Limadaptatu_ _p900554085	#CCCF66
+Unknown_BY606-001R0024_bin.40	Streptococcu_ faecavium	#F5857C
+Unknown_BY606-001R0024_bin.42	Unknown_BY606-001R0024_bin.42	#C1E7BD
+Unknown_BY606-001R0024_bin.43	Unknown_BY606-001R0024_bin.43	#D6D0D6
+Unknown_BY606-001R0024_bin.44	Unknown_BY606-001R0024_bin.44	#9ED9C3
+Unknown_BY606-001R0024_bin.46	Unknown_BY606-001R0024_bin.46	#E2979B
+Unknown_BY606-001R0024_bin.47	Negativibacillu_ ma__ilien_i_	#BE91BE
+Unknown_BY606-001R0024_bin.51	Phocaeicola plebeiu__A	#C6B1CB
+Unknown_BY606-001R0024_bin.55	Unknown_BY606-001R0024_bin.55	#C1A2BF
+Unknown_BY606-001R0024_bin.7	Unknown_BY606-001R0024_bin.7	#F9B562
+Unknown_BY606-001R0024_bin.8	Faecalibacterium _p002160895	#D2EDBA
+Unknown_BY606-001R0025_bin.1	Ornithoclo_tridium _p944381325	#C1D567
+Unknown_BY606-001R0025_bin.28	Unknown_BY606-001R0025_bin.28	#BEBAD9
+Unknown_BY606-001R0025_bin.30	Parabacteroide_ _p937894065	#DCB37F
+Unknown_BY606-001R0025_bin.36	Unknown_BY606-001R0025_bin.36	#AFE0C0
+Unknown_BY606-001R0025_bin.38	Brachy_pira pilo_icoli	#F0EFBB
+Unknown_BY606-001R0025_bin.39	Unknown_BY606-001R0025_bin.39	#DCDAC7
+Unknown_BY606-001R0025_bin.4	Phocaeicola coprophilu_	#C6B1CB
+Unknown_BY606-001R0025_bin.42	Fu_obacterium_A pullicola	#BB99A3
+Unknown_BY606-001R0025_bin.44	Unknown_BY606-001R0025_bin.44	#C08CC0
+Unknown_BY606-001R0025_bin.45	UMGS2016 _p945872435	#E18A86
+Unknown_BY606-001R0025_bin.6	Enterou_ia _p944390125	#83AFD0
+Unknown_BY606-001R0026_bin.10	Parabacteroide_ _p937894065	#DCB37F
+Unknown_BY606-001R0026_bin.14	Ali_tipe_ _p022767745	#BEBAD9
+Unknown_BY606-001R0026_bin.17	Phocaeicola coprocola	#C6B1CB
+Unknown_BY606-001R0026_bin.19	Metalachno_pira _p902406135	#BBDC76
+Unknown_BY606-001R0026_bin.23	Brachy_pira pilo_icoli	#F0EFBB
+Unknown_BY606-001R0026_bin.24	Mediterraneibacter caccogallinarum	#C08CC0
+Unknown_BY606-001R0026_bin.26	Unknown_BY606-001R0026_bin.26	#AFE0C0
+Unknown_BY606-001R0026_bin.27	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0026_bin.28	Enterou_ia _p944390125	#83AFD0
+Unknown_BY606-001R0026_bin.3	Unknown_BY606-001R0026_bin.3	#8FB1C4
+Unknown_BY606-001R0026_bin.31	RGIG2774 _p944380845	#CE9195
+Unknown_BY606-001R0026_bin.32	Unknown_BY606-001R0026_bin.32	#CFA9BB
+Unknown_BY606-001R0026_bin.33	Unknown_BY606-001R0026_bin.33	#C6B1CB
+Unknown_BY606-001R0026_bin.35	Unknown_BY606-001R0026_bin.35	#C6B1CB
+Unknown_BY606-001R0026_bin.43	CAG-266 _p019117495	#D8C965
+Unknown_BY606-001R0026_bin.47	Fimenecu_ _p944380765	#F48277
+Unknown_BY606-001R0026_bin.5	Unknown_BY606-001R0026_bin.5	#C3B2C0
+Unknown_BY606-001R0026_bin.51	Gemmiger excrementavium	#C6C2C2
+Unknown_BY606-001R0026_bin.52	Parabacteroide_ inte_tinipullorum	#DCB37F
+Unknown_BY606-001R0026_bin.57	Enorma ma__ilien_i_	#C8D3C3
+Unknown_BY606-001R0027_bin.10	UMGS2016 _p945872435	#E18A86
+Unknown_BY606-001R0027_bin.12	Faecalibacterium _p002160895	#D2EDBA
+Unknown_BY606-001R0027_bin.15	Avelu_imicrobium _p944324735	#E3C264
+Unknown_BY606-001R0027_bin.18	Agathobaculum inte_tinipullorum	#96A8C1
+Unknown_BY606-001R0027_bin.23	Limi_oma _p900544305	#EEBC63
+Unknown_BY606-001R0027_bin.3	Unknown_BY606-001R0027_bin.3	#AFE0C0
+Unknown_BY606-001R0027_bin.34	Unknown_BY606-001R0027_bin.34	#F5FBB4
+Unknown_BY606-001R0027_bin.38	Parabacteroide_ _p937894065	#DCB37F
+Unknown_BY606-001R0027_bin.39	Unknown_BY606-001R0027_bin.39	#CAE3C4
+Unknown_BY606-001R0027_bin.43	URXU01 _p900541915	#E6E5C1
+Unknown_BY606-001R0027_bin.44	Unknown_BY606-001R0027_bin.44	#8FB1C4
+Unknown_BY606-001R0027_bin.46	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0027_bin.49	Metalachno_pira _p902406135	#BBDC76
+Unknown_BY606-001R0027_bin.5	Streptococcu_ faecavium	#F5857C
+Unknown_BY606-001R0027_bin.51	Phocaeicola coprophilu_	#C6B1CB
+Unknown_BY606-001R0027_bin.53	Parabacteroide_ inte_tinipullorum	#DCB37F
+Unknown_BY606-001R0027_bin.54	Unknown_BY606-001R0027_bin.54	#F5FBB4
+Unknown_BY606-001R0027_bin.55	Unknown_BY606-001R0027_bin.55	#AFE0C0
+Unknown_BY606-001R0027_bin.7	Unknown_BY606-001R0027_bin.7	#F0EFBB
+Unknown_BY606-001R0028_bin.10	Unknown_BY606-001R0028_bin.10	#AFE0C0
+Unknown_BY606-001R0028_bin.15	Unknown_BY606-001R0028_bin.15	#C08CC0
+Unknown_BY606-001R0028_bin.17	Anaerotignum _p902477755	#F0D1E1
+Unknown_BY606-001R0028_bin.2	Aphodocola _p944329425	#D2D0CD
+Unknown_BY606-001R0028_bin.20	Unknown_BY606-001R0028_bin.20	#AFE0C0
+Unknown_BY606-001R0028_bin.27	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0028_bin.48	Megamona_ funiformi_	#8DD3C7
+Unknown_BY606-001R0028_bin.54	MGBC107952 _p944332435	#CDB5CD
+Unknown_BY606-001R0028_bin.55	Unknown_BY606-001R0028_bin.55	#F5FBB4
+Unknown_BY606-001R0028_bin.59	Paraprevotella _p944320775	#8FB1C4
+Unknown_BY606-001R0029_bin.10	Paraprevotella _p944320775	#8FB1C4
+Unknown_BY606-001R0029_bin.11	UMGS2016 _p945872435	#E18A86
+Unknown_BY606-001R0029_bin.15	Brachy_pira pilo_icoli	#F0EFBB
+Unknown_BY606-001R0029_bin.19	Enterou_ia inte_tinigallinarum	#83AFD0
+Unknown_BY606-001R0029_bin.2	Unknown_BY606-001R0029_bin.2	#F9B562
+Unknown_BY606-001R0029_bin.21	Cacco_oma faecigallinarum	#D0EBBD
+Unknown_BY606-001R0029_bin.29	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0029_bin.35	Ali_tipe_ _p900550925	#BEBAD9
+Unknown_BY606-001R0029_bin.36	Agathobaculum inte_tinipullorum	#96A8C1
+Unknown_BY606-001R0029_bin.41	Ali_tipe__A pullicola	#F2CFD5
+Unknown_BY606-001R0029_bin.49	Enterou_ia _p944390125	#83AFD0
+Unknown_BY606-001R0029_bin.56	Eubacterium_R _p944385025	#B6DC68
+Unknown_BY606-001R0029_bin.60	Streptococcu_ faecavium	#F5857C
+Unknown_BY606-001R0029_bin.61	De_ulfovibrio _p944324525	#F5FBB4
+Unknown_BY606-001R0029_bin.65	Unknown_BY606-001R0029_bin.65	#BEBAD9
+Unknown_BY606-001R0029_bin.66	Galliga_tranaerophilu__A _p944325145	#D8EBB0
+Unknown_BY606-001R0029_bin.7	RGIG2774 _p944380845	#CE9195
+Unknown_BY606-001R0030_bin.10	Eubacterium_R faecigallinarum	#B6DC68
+Unknown_BY606-001R0030_bin.11	CAG-217 _p900547275	#A2B1B3
+Unknown_BY606-001R0030_bin.13	Unknown_BY606-001R0030_bin.13	#DCDAC7
+Unknown_BY606-001R0030_bin.16	Unknown_BY606-001R0030_bin.16	#B5B2A2
+Unknown_BY606-001R0030_bin.17	Unknown_BY606-001R0030_bin.17	#F48277
+Unknown_BY606-001R0030_bin.19	Unknown_BY606-001R0030_bin.19	#AFE0C0
+Unknown_BY606-001R0030_bin.28	Unknown_BY606-001R0030_bin.28	#F5FBB4
+Unknown_BY606-001R0030_bin.3	Faecalibacterium _p002160895	#D2EDBA
+Unknown_BY606-001R0030_bin.36	Unknown_BY606-001R0030_bin.36	#F5FBB4
+Unknown_BY606-001R0030_bin.37	Phocaeicola _p900542985	#C6B1CB
+Unknown_BY606-001R0030_bin.43	Brachy_pira pilo_icoli	#F0EFBB
+Unknown_BY606-001R0030_bin.5	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0030_bin.7	Unknown_BY606-001R0030_bin.7	#AFE0C0
+Unknown_BY606-001R0031_bin.1	Fu_obacterium_A pullicola	#BB99A3
+Unknown_BY606-001R0031_bin.11	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0031_bin.12	Unknown_BY606-001R0031_bin.12	#AFE0C0
+Unknown_BY606-001R0031_bin.19	Streptococcu_ faecavium	#F5857C
+Unknown_BY606-001R0031_bin.3	Ali_tipe_ _p022767745	#BEBAD9
+Unknown_BY606-001R0032_bin.11	CASDZP01 _p949285535	#FAFAB5
+Unknown_BY606-001R0032_bin.12	Scatomorpha _p900546485	#DFEBA3
+Unknown_BY606-001R0032_bin.2	CAG-217 _p900547275	#A2B1B3
+Unknown_BY606-001R0032_bin.28	Bacteroide_ _p900553815	#D9A0AB
+Unknown_BY606-001R0032_bin.3	Merdimona_ _p949287925	#E7EC96
+Unknown_BY606-001R0032_bin.31	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0032_bin.33	Unknown_BY606-001R0032_bin.33	#D1C2D2
+Unknown_BY606-001R0032_bin.34	Unknown_BY606-001R0032_bin.34	#C6B1CB
+Unknown_BY606-001R0032_bin.35	UMGS2016 _p945872435	#E18A86
+Unknown_BY606-001R0032_bin.37	Unknown_BY606-001R0032_bin.37	#AFE0C0
+Unknown_BY606-001R0032_bin.4	Unknown_BY606-001R0032_bin.4	#F0EFBB
+Unknown_BY606-001R0032_bin.43	Unknown_BY606-001R0032_bin.43	#C1E7BD
+Unknown_BY606-001R0032_bin.45	Phocaeicola coprophilu_	#C6B1CB
+Unknown_BY606-001R0032_bin.46	Streptococcu_ faecavium	#F5857C
+Unknown_BY606-001R0032_bin.50	Unknown_BY606-001R0032_bin.50	#F5FBB4
+Unknown_BY606-001R0032_bin.6	Unknown_BY606-001R0032_bin.6	#AFE0C0
+Unknown_BY606-001R0032_bin.64	Faecalibacterium _p002160895	#D2EDBA
+Unknown_BY606-001R0032_bin.7	Ali_tipe_ _p022767745	#BEBAD9
+Unknown_BY606-001R0032_bin.9	Eubacterium_R faecigallinarum	#B6DC68
+Unknown_BY606-001R0033_bin.10	Limadaptatu_ _p944363035	#CCCF66
+Unknown_BY606-001R0033_bin.2	Unknown_BY606-001R0033_bin.2	#F9B562
+Unknown_BY606-001R0033_bin.22	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0033_bin.23	URXU01 _p900541915	#E6E5C1
+Unknown_BY606-001R0033_bin.26	Metalachno_pira _p902406135	#BBDC76
+Unknown_BY606-001R0033_bin.27	CAG-266 _p019117495	#D8C965
+Unknown_BY606-001R0033_bin.28	Unknown_BY606-001R0033_bin.28	#E2979B
+Unknown_BY606-001R0033_bin.32	Streptococcu_ faecavium	#F5857C
+Unknown_BY606-001R0033_bin.33	Unknown_BY606-001R0033_bin.33	#F5FBB4
+Unknown_BY606-001R0033_bin.34	Ligilactobacillu_ excrementigallinarum	#EFEC89
+Unknown_BY606-001R0033_bin.35	Parabacteroide_ _p937894065	#DCB37F
+Unknown_BY606-001R0033_bin.37	Parabacteroide_ inte_tinipullorum	#DCB37F
+Unknown_BY606-001R0033_bin.39	Unknown_BY606-001R0033_bin.39	#9ED9C3
+Unknown_BY606-001R0033_bin.4	Brachy_pira pilo_icoli	#F0EFBB
+Unknown_BY606-001R0033_bin.45	De_ulfovibrio galli_tercori_	#F5FBB4
+Unknown_BY606-001R0033_bin.7	Unknown_BY606-001R0033_bin.7	#DCDAC7
+Unknown_BY606-001R0034_bin.12	Unknown_BY606-001R0034_bin.12	#C6B1CB
+Unknown_BY606-001R0034_bin.13	Bacteroide_ ndongoniae	#D9A0AB
+Unknown_BY606-001R0034_bin.14	Phocaeicola coprophilu_	#C6B1CB
+Unknown_BY606-001R0034_bin.16	Enterou_ia inte_tinigallinarum	#83AFD0
+Unknown_BY606-001R0034_bin.20	De_ulfovibrio _p944324525	#F5FBB4
+Unknown_BY606-001R0034_bin.24	Brachy_pira pilo_icoli	#F0EFBB
+Unknown_BY606-001R0034_bin.28	Parabacteroide_ inte_tinipullorum	#DCB37F
+Unknown_BY606-001R0034_bin.29	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0034_bin.30	Unknown_BY606-001R0034_bin.30	#BEBAD9
+Unknown_BY606-001R0034_bin.31	Phocaeicola _p900542985	#C6B1CB
+Unknown_BY606-001R0034_bin.33	Phocaeicola faecicola	#C6B1CB
+Unknown_BY606-001R0034_bin.36	Megamona_ funiformi_	#8DD3C7
+Unknown_BY606-001R0034_bin.37	Fournierella merdipullorum	#F7EC7C
+Unknown_BY606-001R0034_bin.4	Fimenecu_ excrementavium	#F48277
+Unknown_BY606-001R0034_bin.43	Unknown_BY606-001R0034_bin.43	#F5FBB4
+Unknown_BY606-001R0034_bin.6	Unknown_BY606-001R0034_bin.6	#F9B562
+Unknown_BY606-001R0035_bin.10	Enterenecu_ faecium	#FBCDE4
+Unknown_BY606-001R0035_bin.14	Unknown_BY606-001R0035_bin.14	#C6B1CB
+Unknown_BY606-001R0035_bin.15	Unknown_BY606-001R0035_bin.15	#AFE0C0
+Unknown_BY606-001R0035_bin.18	Unknown_BY606-001R0035_bin.18	#C1E7BD
+Unknown_BY606-001R0035_bin.22	Brachy_pira pilo_icoli	#F0EFBB
+Unknown_BY606-001R0035_bin.6	Unknown_BY606-001R0035_bin.6	#FFED6F
+Unknown_BY606-001R0036_bin.16	Ali_tipe__A ihumii	#F2CFD5
+Unknown_BY606-001R0036_bin.19	Unknown_BY606-001R0036_bin.19	#AFE0C0
+Unknown_BY606-001R0036_bin.20	Mediterraneibacter caccogallinarum	#C08CC0
+Unknown_BY606-001R0036_bin.25	Unknown_BY606-001R0036_bin.25	#C1E7BD
+Unknown_BY606-001R0036_bin.27	Phocaeicola coprocola	#C6B1CB
+Unknown_BY606-001R0036_bin.29	Phocaeicola faecicola	#C6B1CB
+Unknown_BY606-001R0036_bin.3	Unknown_BY606-001R0036_bin.3	#D1C2D2
+Unknown_BY606-001R0036_bin.31	Limi_oma _p900544305	#EEBC63
+Unknown_BY606-001R0036_bin.32	Paraprevotella _p944320775	#8FB1C4
+Unknown_BY606-001R0036_bin.4	Eubacterium_R faecigallinarum	#B6DC68
+Unknown_BY606-001R0036_bin.51	Akkerman_ia muciniphila	#BC81BD
+Unknown_BY606-001R0036_bin.53	Ali_tipe_ avi_tercori_	#BEBAD9
+Unknown_BY606-001R0036_bin.56	De_ulfovibrio _p905215675	#F5FBB4
+Unknown_BY606-001R0036_bin.61	Unknown_BY606-001R0036_bin.61	#C6B1CB
+Unknown_BY606-001R0037_bin.14	Limadaptatu_ _p944349635	#CCCF66
+Unknown_BY606-001R0037_bin.6	Unknown_BY606-001R0037_bin.6	#C6B1CB
+Unknown_BY606-001R0037_bin.8	Paraprevotella _p944320775	#8FB1C4
