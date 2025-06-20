@@ -16,6 +16,12 @@ The purpose of this document is ...
 library("conflicted")
 library(ggplot2)
 library(dplyr)
+library(readr)
+library(dplyr)
+library(tidyr)
+library(GGally)
+library(viridis)
+
 ```
 
 ```{r directories}
@@ -78,5 +84,25 @@ ggplot(data_sv_type, aes(x = "", y = Count, fill = Category)) +
   scale_fill_brewer(palette = "Set3") +
   theme_void() +
   theme(legend.position = "right")  # 图例显示在右侧
+
+```
+
+```{r, dpi=300}
+data <- read.csv("data/01_mags_quality/genomeInformation.csv") 
+
+p1 <- ggplot(data, aes(x = contamination, y = completeness)) +
+  geom_point(aes(size = centrality, color = strain_heterogeneity),
+             alpha = 0.8) +
+  scale_color_viridis(option = "D", direction = -1) +
+  scale_size_continuous(range = c(1, 3)) +
+  labs(x = "Contamination (%)",
+       y = "Completeness (%)",
+       color = "Strain Heterogeneity (%)",
+       size = "Centrality") +
+  theme_minimal(base_size = 14) +
+  # 添加坐标轴区域矩形边框
+  theme(panel.border = element_rect(color = "black", fill = NA, size = 1))
+ggsave("data/01_mags_quality/scatter_plot.svg", plot = p1, width = 8, height = 5)
+
 
 ```
